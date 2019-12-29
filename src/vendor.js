@@ -1,1 +1,1 @@
-//alert('vendor script');
+alert('vendor script');
